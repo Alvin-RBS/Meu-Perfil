@@ -24,4 +24,4 @@ Já fiz projetos com:
 
 ## Experiência ⏳
 
-### A maior parte da minha experiência é proveniente dos projetos da universidade
+> A maior parte da minha experiência é proveniente dos projetos da universidade
