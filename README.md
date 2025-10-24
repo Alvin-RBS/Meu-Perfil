@@ -26,4 +26,4 @@ Já fiz projetos com:
 
 ## Experiência ⏳
 
- A maior parte da minha experiência é proveniente dos projetos da universidade
+ A maior parte da minha experiência é proveniente dos projetos da universidade. Em especial, o Projeto SARA, onde desenvolvo o front-end, e o SIGPIS, onde desenvolvo o back-end.
