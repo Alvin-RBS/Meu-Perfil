@@ -1,6 +1,6 @@
 # Meu-Perfil
 
-## Desenvolverdor Backend 💻
+## Desenvolverdor Full-Stack 💻
 ## Cursando o 5º período de Ciência da Computação 📚
 
 ## Hard-skills 🎯
@@ -8,11 +8,13 @@
 Já fiz projetos com:
  Java |
  Spring Boot |
+ JavaScript |
+ React |
+ Next|
  C |
  Go |
  Haskell |
- Verilog |
- Assembly 
+
 
 ## Soft-skills 🎨
  Criatividade |
