@@ -1,6 +1,6 @@
 # Meu-Perfil
 
-## Desenvolverdor Full-Stack 💻
+## Desenvolvedor Full-Stack 💻
 ## Cursando o 5º período de Ciência da Computação 📚
 
 ## Hard-skills 🎯
